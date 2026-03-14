@@ -11,6 +11,9 @@ tags: categorization, priority, naming, structure
 
 Agents process information sequentially. Defining clear categories with priorities ensures that critical architecture or security rules are evaluated before stylistic or optional preferences. Prefixes in filenames act as a visual namespaces, preventing collisions and making the skill directory self-sorting.
 
+> [!TIP]
+> Categories, impacts, and prefixes are flexible. Each skill should define a hierarchy that best suits its domain (e.g., a security skill might have different priorities than a UI styling skill).
+
 ## Incorrect Example
 
 **In `SKILL.md`:** No category table.

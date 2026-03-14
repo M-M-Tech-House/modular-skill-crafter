@@ -21,7 +21,10 @@ Reference these guidelines when:
 - Organizing skill resources and examples
 - Validating skill structure and compliance
 
-## Rule Categories by Priority
+## Rule Categories by Priority (Example)
+
+> [!NOTE]
+> The following categories are examples. Skills can define their own categories and priorities based on their specific needs.
 
 | Priority | Category  | Impact   | Prefix     |
 | -------- | --------- | -------- | ---------- |
